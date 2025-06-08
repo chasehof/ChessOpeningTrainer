@@ -1,0 +1,24 @@
+# Build folders
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Visual Studio files
+*.suo
+*.user
+*.vcxproj*
+*.filters
+*.ncb
+*.opensdf
+*.sdf
+*.idb
+*.pdb
+
+# VS Code files (optional)
+.vscode/
+
+# Other
+*.exe
+*.obj
+*.log
